@@ -12,3 +12,13 @@ E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.exe
 E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.pdb
 E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Web.dll
 E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Web.xml
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\bin\Debug\Valyay_BD.exe.config
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.exe
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.pdb
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\bin\Debug\Valyay_BD.exe
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\bin\Debug\Valyay_BD.pdb
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.csprojResolveAssemblyReference.cache
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.Form1.resources
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.Customers.resources
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.Properties.Resources.resources
+C:\Users\mrexo\Documents\Visual Studio 2013\Valyay_DB\Valyay_BD\obj\Debug\Valyay_BD.csproj.GenerateResource.Cache

@@ -66,7 +66,7 @@ namespace Valyay_BD
             finally
             {
                 connection.Close();
-                MessageBox.Show("Подключение прошло успешно!");
+                // MessageBox.Show("Подключение прошло успешно!");
             }
             return table;
         }
