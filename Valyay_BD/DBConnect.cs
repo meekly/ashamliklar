@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace Valyay_BD
 {
+	//Hello!
     class DBConnect
     {
         static MySqlConnection connection;
