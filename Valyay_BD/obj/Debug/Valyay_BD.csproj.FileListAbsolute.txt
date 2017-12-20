@@ -1,0 +1,14 @@
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\Valyay_BD.exe.config
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\Valyay_BD.exe
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\Valyay_BD.pdb
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Data.dll
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Data.xml
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.csprojResolveAssemblyReference.cache
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.Form1.resources
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.Customers.resources
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.Properties.Resources.resources
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.csproj.GenerateResource.Cache
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.exe
+E:\Projects\Valyay_BD\Valyay_BD\obj\Debug\Valyay_BD.pdb
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Web.dll
+E:\Projects\Valyay_BD\Valyay_BD\bin\Debug\MySql.Web.xml
